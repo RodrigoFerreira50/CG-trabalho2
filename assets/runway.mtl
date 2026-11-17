@@ -1,0 +1,39 @@
+newmtl taxiway
+Ka 0 0 0
+Kd 0.550 0.550 0.570
+Ks 0.10 0.10 0.10
+Ns 8
+map_Kd textures/concrete.ppm
+
+newmtl apron
+Ka 0 0 0
+Kd 0.850 0.850 0.840
+Ks 0.10 0.10 0.10
+Ns 8
+map_Kd textures/concrete.ppm
+
+newmtl asphalt
+Ka 0 0 0
+Kd 0.850 0.850 0.870
+Ks 0.15 0.15 0.15
+Ns 16
+map_Kd textures/asphalt.ppm
+
+newmtl marking
+Ka 0 0 0
+Kd 0.950 0.950 0.950
+Ks 0.20 0.20 0.20
+Ns 16
+
+newmtl yellow
+Ka 0 0 0
+Kd 0.900 0.750 0.100
+Ks 0.20 0.20 0.20
+Ns 16
+
+newmtl taxi_line
+Ka 0 0 0
+Kd 0.950 0.800 0.100
+Ks 0.20 0.20 0.20
+Ns 16
+

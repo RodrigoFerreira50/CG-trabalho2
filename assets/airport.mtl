@@ -1,0 +1,48 @@
+newmtl terminal
+Ka 0 0 0
+Kd 0.750 0.730 0.680
+Ks 0.20 0.20 0.20
+Ns 16
+
+newmtl glass
+Ka 0 0 0
+Kd 0.150 0.250 0.350
+Ks 0.90 0.90 0.90
+Ns 120
+
+newmtl roof
+Ka 0 0 0
+Kd 0.350 0.360 0.380
+Ks 0.20 0.20 0.20
+Ns 16
+
+newmtl jetbridge
+Ka 0 0 0
+Kd 0.600 0.600 0.620
+Ks 0.30 0.30 0.30
+Ns 24
+
+newmtl tower
+Ka 0 0 0
+Kd 0.850 0.850 0.820
+Ks 0.20 0.20 0.20
+Ns 16
+
+newmtl hangar
+Ka 0 0 0
+Kd 0.550 0.600 0.620
+Ks 0.40 0.40 0.40
+Ns 32
+
+newmtl door
+Ka 0 0 0
+Kd 0.350 0.380 0.420
+Ks 0.40 0.40 0.40
+Ns 32
+
+newmtl tank
+Ka 0 0 0
+Kd 0.880 0.880 0.880
+Ks 0.60 0.60 0.60
+Ns 60
+
